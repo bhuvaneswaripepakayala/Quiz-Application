@@ -1,4 +1,4 @@
-# Quiz-Application
+## Quiz-Application
 This is a Java-based console application that conducts a multiple-choice quiz on Java programming. It displays a set of predefined questions with four options each, accepts user input as answers, evaluates them against correct answers, and finally presents a performance summary including the total number of correct and wrong answers, percentage score, and performance category.
 
 - The application demonstrates key Java concepts such as:
