@@ -8,7 +8,7 @@ This is a Java-based console application that conducts a multiple-choice quiz on
 - Collections API — using HashMap
 
 - Control flow, user input, and string handling
-# Java Console-Based Quiz Application 🎯
+# Java Console-Based Quiz Application
 
 This is a simple **Java console application** that acts as a multiple-choice quiz platform focused on Java programming knowledge.
 
