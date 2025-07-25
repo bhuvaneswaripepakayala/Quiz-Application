@@ -49,13 +49,4 @@ D. Java is a platform-independent programming language
 Enter Your Answer: 
 D
 Correct
-
 ...
-
---------Result---------
-Total Questions: 5
-Correct Answered Questions : 4
-Wrong Answered Questions : 1
-Percentage : 80
-Performance : Medium
-
